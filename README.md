@@ -1,5 +1,7 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seiya0412&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seiya0412&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seiya0412&theme=monokai)
+![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/monokai/0-profile-details.svg)
+![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
+ ![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/monokai/3-stats.svg)
+
 
 - 📫 How to reach me: [@Seiya_S](https://twitter.com/Seiya_S)
 
