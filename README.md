@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/monokai/0-profile-details.svg)
-![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
- ![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/monokai/3-stats.svg)
+![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+ ![](https://raw.githubusercontent.com/seiya0412/seiya0412/main/profile-summary-card-output/github_dark/3-stats.svg)
 
 
 - 📫 How to reach me: [@Seiya_S](https://twitter.com/Seiya_S)
