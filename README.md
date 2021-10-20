@@ -1,4 +1,7 @@
-### Hi there 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seiya0412&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seiya0412&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seiya0412&theme=monokai)
+
+- 📫 How to reach me: [@Seiya_S](https://twitter.com/Seiya_S)
 
 <!--
 **seiya0412/seiya0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
